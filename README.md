@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About This Project
+- This project use reactjs and typescript for the the web appplication
+- Use rest API to communicate with backend services
+- Use Zustan for state management
+- React router dom for routing
+- use tailwindcss for styling
+
 ## Available Scripts
 
 In the project directory, you can run:
